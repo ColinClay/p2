@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="../assests/styles.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://use.typekit.net/cgd1oja.css">
+<link rel="stylesheet" href="https://use.typekit.net/cgd1oja.css">
+<link rel="stylesheet" href="https://use.typekit.net/cgd1oja.css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	<div id="container">
+  <header></header>
+  <nav>
+	<ul>
+	  <li><a href="../pages/about.html">About</a> </li>
+	  <li><a href="../pages/blog.html">Blog</a> </li>
+	  <li><a href="../pages/gallery.html">Gallery</a> </li>
+	  <li><a href="../pages/contact.html">contact</a> </li>
+	</ul>
+	</nav>
+  <!--Begin floated elements-->
+  <aside><h3>I am a man, a student, a inspiring computer science major, who also wears glasses.</h3>
+	<h3>Join me as I examine my life through all of my various lenses.</h3>
+	<h3>by Colin Clay</h3>
+	</aside>
+		
+  <!-- TemplateBeginEditable name="main-content" -->
+  <main>
+    <h1>Page Title</h1>
+  </main>
+  <!-- TemplateEndEditable -->  <!--End floated elements-->
+  <footer>Content for New footer Tag Goes Here</footer>
+</div>
+</body>
+</html>
